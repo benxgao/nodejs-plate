@@ -1,2 +1,1 @@
-# practice-javascript-basic
-Boilerplate of minimum JavaScript project setup
+# Boilerplate of Node.js application
